@@ -9,4 +9,8 @@ and the results of classification for Regularized Logistic Regression).
 
 In order to see how the code is implemented just look at the functions there.
 
+The dataset is provided there and it is downloaded here: http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
+
+The algorithm classifies cancers on benign or malignant. The results of cross validation are >97%.
+
 The project was motivated from an assignment on statistical learning, at the uni where I study.
