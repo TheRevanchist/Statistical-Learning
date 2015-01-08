@@ -1,4 +1,4 @@
-function [error_rate, p] = normalizedLogisticRegression(train, test)
+function [error_rate, p] = regularizedLogisticRegression(train, test)
 
 X = train(:,1:9);
 y = train(:,10);
